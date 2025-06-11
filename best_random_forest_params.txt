@@ -1,6 +1,6 @@
 Optimized Random Forest Hyperparameters:
 
-regressor__random_forest__n_estimators: 1400
+regressor__random_forest__n_estimators: 1440
 regressor__random_forest__min_samples_split: 2
 regressor__random_forest__min_samples_leaf: 1
-regressor__random_forest__max_features: 60
+regressor__random_forest__max_features: 80
