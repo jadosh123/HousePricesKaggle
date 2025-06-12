@@ -1,3 +1,5 @@
 .venv
 kaggle_housing_data
 /src/__pycache__
+submission.csv
+submission2.csv
